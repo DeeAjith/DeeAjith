@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **frontend dev**
 
-- 📫 How to reach me **me@deeajith.in**
+- 📫 How to reach me **namaste@deeajith.in**
 
 - ⚡ Fun fact **code makes me feel high🤑**
 
