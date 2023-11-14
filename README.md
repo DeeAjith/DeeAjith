@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deeajith" alt="deeajith" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter personal project**
+- 🔭 I’m currently working on **NextJS Blogs project**
 
-- 🌱 I’m currently learning **Flutter & NextJS**
+- 🌱 I’m currently learning **NextJS && Fullstack at Scaler Academy**
 
-- 👨‍💻 All of my projects are available at [https://deeajith.in](https://deeajith.in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://deeajith.in)
 
-- 💬 Ask me about **frontend dev**
+- 💬 Ask me anything about **frontend dev**
 
 - 📫 How to reach me **namaste@deeajith.in**
-
-- ⚡ Fun fact **code makes me feel high🤑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
